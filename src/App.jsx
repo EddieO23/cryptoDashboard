@@ -3,9 +3,9 @@ import { Routes, Route } from 'react-router';
 
 import Header from './components/Header';
 import Home from './pages/Home';
-import AboutPage from './pages/about';
-import CoinsDetailPage from './pages/coin-details';
-import NotFoundPage from './pages/not-found';
+import AboutPage from './pages/About';
+import CoinsDetailPage from './pages/Coin-Details';
+import NotFoundPage from './pages/Not-Found';
 
 const API_URl = import.meta.env.VITE_API_URL;
 
